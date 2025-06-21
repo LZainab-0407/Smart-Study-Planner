@@ -1,5 +1,9 @@
 package views;
 
-public class TaskManagerPanel {
+import javax.swing.*;
+
+public class TaskManagerPanel extends JPanel{
     
+    public TaskManagerPanel(){
+    }
 }
